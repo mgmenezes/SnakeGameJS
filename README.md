@@ -3,9 +3,8 @@
 
 For those feeling particularly nostalgic, this game is absolutely perfect for you!
 
+![logo_snake](https://github.com/mgmenezes/SnakeGameJS/assets/28824607/ca7fcb8d-2ded-48c4-82ca-923c5643d81a)
 
-![Logo](![logo_snake](https://github.com/mgmenezes/SnakeGameJS/assets/28824607/df52d097-908f-48fe-8842-cd7a93aa326a)
-)
 
 ## Image says one thousand words
 
